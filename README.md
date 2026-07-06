@@ -1,11 +1,3 @@
-<!--
-  ┌────────────────────────────────────────────────────────────────┐
-  │  EDIT ME: lines marked  <!-- TODO -->  hold facts I could not    │
-  │  verify from your account. Replace them, then delete the note.   │
-  │  Everything else is pulled from live GitHub data.                │
-  └────────────────────────────────────────────────────────────────┘
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=Tanishq%20Jain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Product%20Builder&descAlignY=60&descSize=18" alt="header" />
@@ -16,16 +8,14 @@
 
 <br/>
 
-<!-- TODO: swap the degree/field below for your real one, or delete these two badges -->
-![Degree](https://img.shields.io/badge/B.Tech-Computer_Science-4c1d95?style=for-the-badge&labelColor=1e1b4b)
+![Degree](https://img.shields.io/badge/B.Tech-Electronics_%26_Communication-4c1d95?style=for-the-badge&labelColor=1e1b4b)
 ![Focus](https://img.shields.io/badge/AI_%26_Software_Engineering-6d28d9?style=for-the-badge&labelColor=1e1b4b)
 ![Location](https://img.shields.io/badge/India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
 
 <br/><br/>
 
-<!-- TODO: set your real portfolio + linkedin URLs -->
-<a href="https://github.com/Tjmafiabug"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
+<a href="https://tanishqjain.co"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/tanishq-jain-6a1565122/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
 <a href="mailto:tanishqjain.work@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="email" /></a>
 <a href="https://github.com/Tjmafiabug"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="github" /></a>
 
@@ -168,12 +158,12 @@ A family of trust-first rating platforms for local professionals, built on one r
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"> Experience
 
-<!-- TODO: confirm titles / dates, or edit to match your real history -->
-**Founding Engineer · Tanishq Jain Office**
+**Founder & Engineer · Tanishq Jain Office**
 `2024 — Present`
 
-Building and shipping AI powered products and client web platforms end to end.
+Building Tanishq Jain Office and KLiXO Studio: AI powered products and client web platforms, shipped end to end.
 
+- Build and run **KLiXO Studio**, a product and web studio
 - Ship full stack products from data model to production deploy
 - Design and run autonomous AI agents and automation pipelines
 - Deliver client websites on Astro and TypeScript with a focus on speed and SEO
@@ -191,31 +181,6 @@ Building and shipping AI powered products and client web platforms end to end.
 | 🚀 Shipped 50+ repositories | Broad portfolio across web, AI, and automation |
 | 🤖 Built autonomous agent systems | Unattended AI workflows running in production |
 | 🌐 Delivered multiple client platforms | Live websites and web apps for real businesses |
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"> Certifications
-
-<!-- TODO: keep only certs you actually hold. Delete this whole section if none yet. -->
-
-**Coursera / Online**
-
-![Certification](https://img.shields.io/badge/Add_your-Certifications-4c1d95?style=for-the-badge&labelColor=1e1b4b)
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> Coding Profiles
-
-<!-- TODO: replace the usernames in these URLs with your real handles, or delete the section -->
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
 
@@ -280,9 +245,9 @@ open_to:    [ engineering roles, AI collaborations, open source ]
 <div align="center">
 
 <a href="mailto:tanishqjain.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="gmail" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/tanishq-jain-6a1565122/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
 <a href="https://github.com/Tjmafiabug"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="github" /></a>
-<a href="https://github.com/Tjmafiabug"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
+<a href="https://tanishqjain.co"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
 
 </div>
 
