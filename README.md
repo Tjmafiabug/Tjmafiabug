@@ -190,10 +190,10 @@ Building Tanishq Jain Office and KLiXO Studio: AI powered products and client we
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tjmafiabug&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=6d28d9&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-stats-tj.vercel.app/api?username=Tjmafiabug&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=6d28d9&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Tjmafiabug&hide_border=true&background=0d1117&stroke=4c1d95&ring=A78BFA&fire=6d28d9&currStreakLabel=A78BFA&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tjmafiabug&layout=compact&hide_border=true&langs_count=8&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+<img height="165" src="https://github-readme-stats-tj.vercel.app/api/top-langs/?username=Tjmafiabug&layout=compact&hide_border=true&langs_count=8&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
 
 </div>
 
@@ -203,7 +203,7 @@ Building Tanishq Jain Office and KLiXO Studio: AI powered products and client we
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tjmafiabug&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy-tj.vercel.app/?username=Tjmafiabug&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
