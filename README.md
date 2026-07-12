@@ -1,23 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=Tanishq%20Jain&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Product%20Builder&descAlignY=60&descSize=18" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+TypeScript+%2B+Astro+%2B+Node;AI+Product+Builder+%E2%80%94+Agents%2C+LLM+Apps%2C+Automation;Shipping+Real+Products%2C+Not+Just+Demos" alt="typing" />
-</a>
-
-<br/>
-
-![Degree](https://img.shields.io/badge/B.Tech-Electronics_%26_Communication-4c1d95?style=for-the-badge&labelColor=1e1b4b)
-![Focus](https://img.shields.io/badge/AI_%26_Software_Engineering-6d28d9?style=for-the-badge&labelColor=1e1b4b)
-![Location](https://img.shields.io/badge/India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e1b4b)
-
-<br/><br/>
-
-<a href="https://tanishqjain.co"><img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b" alt="portfolio" /></a>
-<a href="https://www.linkedin.com/in/tanishq-jain-6a1565122/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b" alt="linkedin" /></a>
-<a href="mailto:tanishqjain.work@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b" alt="email" /></a>
-<a href="https://github.com/Tjmafiabug"><img src="https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b" alt="github" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" alt="Tanishq Jain — AI Automation Engineer" width="100%">
+</picture>
 
 <br/><br/>
 
