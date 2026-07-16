@@ -211,9 +211,9 @@ Building Tanishq Jain Office and KLiXO Studio: AI powered products and client we
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tjmafiabug/Tjmafiabug/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tjmafiabug/Tjmafiabug/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/Tjmafiabug/Tjmafiabug/output/snake-dark.svg" alt="Contribution snake animation" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tjmafiabug/Tjmafiabug/output/snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tjmafiabug/Tjmafiabug/output/snake-light.svg?v=2">
+  <img src="https://raw.githubusercontent.com/Tjmafiabug/Tjmafiabug/output/snake-dark.svg?v=2" alt="Contribution snake animation" width="100%">
 </picture>
 
 </div>
